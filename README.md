@@ -2,8 +2,6 @@
 
 **Pariksha** is a full-stack web-based Examination Management System developed to simplify examination administration and automate student seat allocation. It provides a centralized platform for organizing examination-related activities, managing student information, and generating structured seating arrangements.
 
-🔗 **Live Demo:** https://pariksha-vjxk.vercel.app/
-
 ## 📌 About the Project
 
 Managing university examinations involves coordinating students, examination schedules, classrooms, and seating arrangements. Performing these tasks manually can be time-consuming and prone to organizational errors.
@@ -189,18 +187,9 @@ The application is deployed using:
 
 **Live Application:** https://pariksha-vjxk.vercel.app/
 
-## 👥 Development Team
-
-Developed as an academic group project by Computer Engineering students at Kathmandu University.
-
-- Rhijvi Dhungel
-- Ankit
-- Kunal
-- Sushant
-
 ## 🎯 Learning Outcomes
 
-Through this project, we gained practical experience in:
+Through this project, I gained practical experience in:
 
 - Full-stack web application development.
 - Frontend development using Next.js and React.
